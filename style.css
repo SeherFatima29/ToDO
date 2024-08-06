@@ -1,0 +1,23 @@
+input{
+border: 5px solid rgb(255, 0, 0);
+border-radius: 10px;
+margin-left: 20%;
+background-color: rgb(9, 8, 9);
+color: White;
+margin-top: 5%;
+padding: 10px;
+outline: none;
+}
+button{
+    margin-top: 5%;
+    margin-left: 25%;
+    padding: 10px;
+    background-color: pink;
+    border: 2px dashed black;
+    cursor: pointer;
+    font-weight: bold;
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
